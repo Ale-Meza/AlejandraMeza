@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css?family=Hind');  
+
+body{
+            font-family: 'Hind', sans-serif;
+            font-size: 20px;
+            color: black;
+            padding-left: 5px;
+            line-height: 50px;
+        }
+h2{
+            
+            font-family: 'Hind', sans-serif;
+            font-size: 25px;
+            color: black; 
+            padding-left: 14px;
+            padding-top: 10px;
+}
+
+h1{
+            font-family: 'Hind', sans-serif;
+            font-size: 50px;
+            color: black;
+}
+
+p{
+            font-family: 'Hind', sans-serif;
+            font-size: 15px;
+            color: black;
+            padding-left: 14px;
+            
+}
+
+#top {
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+    border-bottom: 3.5px solid black;
+}
+
+#sidebar {
+    float: left;
+    margin: auto;
+    padding: 0;
+    text-align: right;
+    color: black;
+}
+
+#sidebar ul{
+    list-style-type: none;
+    padding-right: 10px;
+    border-right:10px solid black;
+    line-height: 3;
+    border-right-style:double;
+    
+}
+   
+#sidebar ul li a {
+    text-decoration: none;
+    color:black;
+    
+}
+
+#sidebar ul li a:hover{ 
+    color: grey;
+}
+
+
+#lines {
+    width: 100%;
+    padding: 0px;
+    border: 2px solid black;
+    margin-bottom: 10px;
+    margin-top: 10px
+}
+
+.row img{
+    padding-bottom: 15px;
+}
+
+
+
